@@ -16,3 +16,8 @@ MyInput input = new MyInput();
 input.name = "Fred Jones"
 input.eyes = "blue";
 ```
+
+# Swift
+```swift
+Kinvey.sharedClient.initialize(appKey: "<Your app key>", appSecret: "<Your app secret>", encrypted: true)
+```
