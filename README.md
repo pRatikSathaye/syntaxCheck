@@ -1,6 +1,6 @@
 # syntaxCheck
 
-# C#
+# CSharp
 ```cs
 using Newtonsoft.Json;
 ...
